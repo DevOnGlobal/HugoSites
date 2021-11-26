@@ -28,3 +28,9 @@ Now we have to pull the latest version from GitHub.
 
 `git pull https://github.com/DevOnGlobal/HugoSites.git`
 
+Create in the root folder a new directory with your name and copy the content ofone of the existing folder or from the template folder to start fresh. Now we can run the test enviroment and change the yaml files to create our personal Hugo site. Whe we copied the files move to your directory and start hugo server.
+
+`hugo server --theme toha --watch` 
+
+This will run a test version of your site on localhost:1313!
+
