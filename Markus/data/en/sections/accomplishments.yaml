@@ -1,0 +1,124 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Talent Programm Atos
+  timeline: "2012"
+  organization:
+    name: Atos
+    url: https://www.atos.net
+  courseOverview: "Atos has selected me in 2012 as one of the High Potential employees. One year a small group of high potentials receive support and training. The high potentials received training in communication, leadership and personal effectiveness. We worked closely with C-level and helped in important projects to improve the organization. "
+  #certificateURL: "https://example.com"
+
+- name: Masterclass Agile for Managers
+  timeline: "Jun 2016"
+  organization:
+    name: Nyenrode Business University
+    url: https://www.nyenrode.nl/
+  courseOverview: "To survive in the future, adaptability is very important. The market, competitors and customer behavior are changing so quickly that the traditional way of working falls short. Organizations must be fast and agile. Do you want your organization to move towards a new way of working that helps you with this: agile? During the masterclass Agile management and leadership, experts teach you knowledge and insights to successfully transform your own organization into an agile business organization. You will learn from the smart approach of lean start-ups and other successful innovative organizations."
+  #certificateURL: "https://example.com"
+
+- name: Gamification
+  timeline: "May 2014"
+  organization:
+    name: Atos and HAN
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+  
+- name: Angular + Angular2
+  timeline: 
+  organization:
+    name: Codeschool
+    url: https://www.codeschool.co/
+  courseOverview: 
+  #certificateURL: "https://example.com"
+  
+- name: Python
+  timeline: 
+  organization:
+    name: Codeschool
+    url: https://www.codeschool.co/
+  courseOverview: 
+  #certificateURL: "https://example.com"
+  
+- name: PHP
+  timeline: 
+  organization:
+    name: Codeschool
+    url: https://www.codeschool.co/
+  courseOverview: 
+  #certificateURL: "https://example.com"
+  
+- name: Agile Project Management Foundation
+  timeline: 
+  organization:
+    name:
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+    
+- name: Dynamic Systems Development Method (DSDM)
+  timeline: 
+  organization:
+    name:
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+
+- name: DirX Identity v8.3
+  timeline: 
+  organization:
+    name:
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+
+- name: DAP Security Officer course 
+  timeline: 
+  organization:
+    name: 
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+
+- name: Fundamentals of Apllication Security 
+  timeline: 
+  organization:
+    name: 
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+
+- name: Fundamentals of Secure Development 
+  timeline: 
+  organization:
+    name: 
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"
+  
+- name: Crystal Reports I & II Certification
+  timeline: 
+  organization:
+    name: 
+    url: 
+  courseOverview:
+  #certificateURL: "https://example.com"
+  
+- name: Business Objects XI Masterclass
+  timeline: 
+  organization:
+    name: 
+    url: 
+  courseOverview: 
+  #certificateURL: "https://example.com"  

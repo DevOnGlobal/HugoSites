@@ -1,0 +1,74 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: DevOps
+  logo: /images/sections/skills/devops1.png
+  summary: "7 years of experience in the area of DevOps. Started as DevOps Engineer and grown to a trainer/coach in this field. Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. Certified trainer in many areas of DevOps like Foundation, Continuous Delivery Architecture, Leadership, Testing and Security"
+
+- name: Agile
+  logo: /images/sections/skills/agile.png
+  summary: "More than 10 years of experience in Agile Software Development. I have experienced Agile in different ways, as a Product Owner, Scrum Master and team member, later also as a coach. Able to explain how the 12 principles help making work more fun and easier. I can connect Agile to DevOps. "
+
+- name: Lean
+  logo: /images/sections/skills/sigma.jpg
+  summary: "Lean is the art of reducing waste and bottlenecks from your system. I have around 8 years of experience. Started out with one major project to improve internal processes at an Atos department, reducing waste from their processes. I also find it usefull to use Lean principles in DevOps. Vaue Stream Mapping, Improvement Kata and many canvasses are tools I use to improve teams an management."
+
+- name: Coaching
+  logo: /images/sections/skills/coder.png
+  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
+
+- name: Training
+  logo: /images/sections/skills/trainer.png
+  summary: "I love to be in front of a group of people tranfering my knowledge and helping them to get the best out of themselves. I prefer my trainings to be interactive and full of discussion/exercises. I am not afraid to pick up a challange, small or large groups and any topic."
+  url: "https://www.springest.nl/u/m-a-n-van-duijn"
+
+- name: Leadership
+  logo: /images/sections/skills/leader.png
+  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
+
+- name: Angular Development
+  logo: /images/sections/skills/angular.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program. as an experiment wrote my first online profile using AngularJs, check it out on markusvanduijn.nl."
+  url: "https://angular.io/"
+
+- name: Business Objects
+  logo: /images/sections/skills/bo.png
+  summary: "Business Intelligence specialist that worked with Business Objects and Crystal Reports to translate data into insights. I started out as a Business Intelligence specialist in my ealry days. Obtaining several certificates and creating meaningfull reports for customer purposes."
+  url: "https://www.sap.com/products/bi-platform.html"
+
+- name: Finance
+  logo: 
+  summary: " "
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
+
+- name: Azure
+  logo: /images/sections/skills/azure.png
+  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  url: "https://prometheus.io/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab. Able to set up servers and understand branching strategies."
+  url: "https://git-scm.com/"
+
+- name: Programming languages
+  logo: /images/sections/skills/coder.png
+  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."

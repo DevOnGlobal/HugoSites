@@ -1,0 +1,74 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 99
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: higher education for the financial sector 
+  icon: fa-university
+  timeframe: 1993-1997
+  institution:
+    name: Amsterdamse Academie
+    url: "#"
+  grade: #(optional)
+    scale: HBO - not finished
+    achieved: 0
+    outOf: 5
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Economics
+      achieved: 
+      outOf: 
+    - name: Management, Organization and Business Communication
+      achieved: 
+      outOf: 
+    - name: Informatica
+      achieved: 
+      outOf: 
+    - name: Financing
+      achieved: 
+      outOf: 
+  extracurricularActivities: #(optional)
+  - Feasibility study for reinsurance in the Dutch Market
+  - Usability for Business Process Redesign in the financial sector
+
+- name: school of higher general secondary education
+  icon: fa-school
+  timeframe: 1988-1993
+  institution:
+    name: Johannes College
+    url: "#"
+  grade: #(optional)
+    scale: HAVO
+    achieved: 7.5
+    outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Dutch
+      achieved: 3.75
+      outOf: 4
+    - name: English
+      achieved: 3.80
+      outOf: 4
+    - name: Physics
+      achieved: 3.5
+      outOf: 4
+    - name: Mathematics (analysis and geometry)
+      achieved: 3.75
+      outOf: 4
+    - name: Economics
+      achieved: 3.75
+      outOf: 4
+    - name: Business Science
+      achieved: 3.75
+      outOf: 4

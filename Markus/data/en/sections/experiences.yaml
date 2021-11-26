@@ -1,0 +1,207 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DevOn
+    url: "https://www.devon.nl"
+    location: Delft
+    # company overview
+    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+  positions:
+  - designation: DevOps Accelerator
+    start: Jan 2018
+    responsibilities:
+    - "As a technical consultant I had many different tasks like: <ul><li>The contentual conduct of technical Agile and Scrum transitions with customers</li><li>Setting up Continuous Delivery or DevOps at our clients</li><li>Collaborating with and advising senior management, architects and the business to keep the transformation going</li><li>Not only lead the transition, but also hand-on working on a successful result</li><li>Transfer skills and teaching a new mindset to technical teams</li><li>Facilitate technical trainings, open course as well as at customers</li><li>Share knowledge on both external and internal events</li></ul>"
+  
+  - designation: CI/CD Enabler @ABN Amro bank
+    start: jun 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "ABN AMRO organizes a transformation in which Agile teams are steered towards DevOps, in a controlled manner. Markus’ responsibilities are: <ul><li>Bringing together Development and Operations responsibilities and teaching new behavior and skills.</li><li>Teach the new way of working, which implies a modular software architecture and the use of a highly automated software delivery pipeline (CI/CD).</li></ul>"
+    - "As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines. Markus brings the following knowledge and experience to the table: <ul><li>he keeps his knowledge up to speed in this rapid changing world</li><li>he is able to demonstrate development techniques.</li><li>he knows how to inspire and how to encourage teams.</li><li>he is focused on delivering value in an automated and controlled way.</li><li>He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.</li></ul>"
+
+  - designation: CI/CD Coach SAP Stack @Stedin
+    start: Nov 2018
+    end: May 2019
+    responsibilities: 
+    - Stedin was looking for help with 3 teams to make progress in CI/CD in the SAP domain. Markus helped the three teams with different sessions about metrics, ABAP Unit testing and TDD. He helped the teams to start meassure the current performance based on the 4 metrics from the Accelerate book - Lead time, Number of releases, Mean Time to Repair and Change failure rate. Also an [assessment](https://devon.nl/kennis/assessments) create by DevOn was used to measure the status of CI/CD with the teams.
+    
+  - designation: CI/CD Coach SAP Stack @Achmea
+    start: Oct 2018
+    end: Mar 2019
+    responsibilities: 
+    - At Achmea Markus helped to embed ABAP unit testing and Test Driven development. He provided a unit test and TDD workshop at several SAP departments. Next to that he helped the teams a few days a week to help them make steps in their way of work. He also gave internal presentations on knowledge sharing events about unit testing on SAP.
+
+  - designation: Agile/DevOps Coach @Nationale Nederlanden
+    start: jan 2018
+    end: jan 2019
+    responsibilities:
+    - Being both Agile coach and CI/CD coach Markus helps multiple teams getting better. The transformation to devops has started a year ago, teams went from scratch to agile scrum teams where operations is embedded. Markus safeguards the agile transformation, coaches teams and management to make the right next steps. When teams are ready for the next steps he helps them to improve by automating processes. Insight in processes, value stream mapping, agile leadership and making people more successful and happy are key topics.
+    
+- company:
+    name: DevOps Institute
+    url: "https://www.devopsinstitute.com/"
+    location: Netherlands
+    overview: 
+  positions:
+  - designation: Certified Trainer
+    start: Aug 2018
+    responsibilities:
+    - As a senior IT consultant I am versatile. I like to expand my knowledge and I am able to adjust to many different roles. In addition to my managerial skills, I have a broad range of technical skills. I attach great  importance to clear communication and openness. I am able to motivate people, bridge contradictions and achieve lasting acceptance among the people involved. I believe contact with all stakeholders is very important, I know how to balance interests in order to reach synergy and agreement. 
+    - Markus is a certified trainer for <ul><li>Certified [DevOps Foundation](https://devonacademy.com/training/devops-foundation) trainer</li><li>Certified [Devops Leader](https://devonacademy.com/training/devops-leader) trainer</li><li>Certified [DeSecOps](https://devonacademy.com/training/devsecops-foundation) trainer</li><li>Certified [Continuous testing Foundation](https://devonacademy.com/training/continuous-testing-foundation) trainer</li><li>Certified [Continuous Delivery Ecosystems](https://devonacademy.com/training/continuous-delivery-ecosystem-foundation) trainer</li></ul>
+    
+- company:
+    name: Atos
+    url: "https://www.Atos.net"
+    location: Utrecht/Amstelveen
+    # company overview
+    overview: 
+  positions:
+
+  - designation: Senior IT Consultant
+    start: Jun 2008
+    end: Dec 2017
+    responsibilities:
+    - "Markus is an allround consultant and he is fulfilling multiple roles at clients in the bank sector: <ul><li>Business Intelligence Specialist</li><li>Agile Project leader</li><li>Scrum Master / Product Owner in DevOps teams</li><li>Identity- and Access Management Specialist</li><li>Team leader</li><li>Security Specialist</li><li>Release Coördinator</li><li>IT Service Management Specialist</li><li>Senior Application Engineer</li></ul>"
+  
+  - designation: Agile Coach CI/CD Stack @ ABN Amro bank
+    start: jun 2016
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2017
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Within IT Solutions a CI/CD (Continuous Integrations / Continuous Delivery) Expert was needed, who has, next to his technical expertise, also great coaching skills.
+    - A Centers of Expertise (CoE) collaborates with projects to ensure that new or modified applications and infrastructure are implemented correctly. This makes the role of the CoE staff in a project highly complex. Partly the project is assisted by expertise from the CoE, on the other hand, of the other part, regulations and governance that need to be followed can be a complicating and restricting factor for the project. Extra factor is that they are also part of the formal Quality Assurance in their own jurisdiction.
+    - "Upon Markus' arrival Agile / Scrum was rolled out in certain parts of the bank, in addition to attitude and behaviour is automation of processes conditionally for a successful rollout. As Agile coach CI/CD Stack Markus was responsible for: <ul><li>Coaching</li><li>Flexibility and inventiveness</li><li>IT authority</li></ul>"
+
+  - designation: Agile Coach / Advisor
+    start: Jan 2016
+    end: Jun 2016
+    responsibilities:
+    - As Agile coach Markus promoted and advised on the agile way of work within Atos and at several clients.
+    - Starting in a start-up innovations team from where Markus used his experience with scrum and DevOps to streamline the scrum process. He gave an agile fundamentals training which inspired people to broaden their knowledge even further and resulted in some of them preparing for their own [PSM1](https://www.credly.com/badges/c3c52887-75e8-4f28-9ed8-2c93dd76745f?source=linked_in_profile) certificate.
+    - For several clients Markus analysed the current agile processes and identified bottlenecks. He advised how to solve the bottlenecks and wrote plans to improve the current processes. For one of the clients he even set up a complete plan to incorporate the business within the DevOps structure.
+    - At Atos Internally Markus has supported a group of managers to create a client specific training project using the Scrum framework. He provided structure so the top management would engage the portfolio and roadmap, a second level of managers were working out their own specific areas. In this way several Scrum teams were created. Markus safeguarded the Scrum methodology and helped to establish a Jira board.
+
+  - designation: Consultant Risk & Security @ING Netherlands
+    start: Oct 2015
+    end: Dec 2015
+    responsibilities:
+    - As a Consultant Risk & Security Markus advised on securing critical information and business processes at the strategic, tactical and operational level. He was the bridge between Business, IT and Risk departments whom could explain technical challenges at all levels. He monitored the set of practices that focuses on aligning IT services with the needs of business (ITIL). He also helped design and / or implementation processes that ensure the continuity of User Access in case of incidents or a crisis.
+    - "Security in the areas of confidentiality, integrity and availability dominated in the User Access area. Markus was responsible for five applications. In the three months that he shared his vision, he has substantially increased the security of the applications. He did this by: <ul><li>Designing password reset procedures for High Privileged Accounts;</li><li>Designing Security Event Monitoring;</li><li>Resolve audit / security findings;</li><li>Writing security and compliance documents;</li><li>Improvement plans to avoid security risks.</li></ul>"
+
+  - designation: Scrum Master DevOps team Authorization @ING Netherlands
+    start: Dec 2014
+    end: Sep 2015
+    responsibilities:
+    - As scrum master Markus facilitated the scrum method, he was accountable for removing impediments to the ability of the team to deliver the product goals and deliverables. He acted as a buffer between the team and any distracting influences. He ensured that the scrum process is used as intended. He helped ensure the team follows the agreed scrum processes, often facilitated key sessions, and encouraged the team to improve. His role could also been referred to as a team facilitator or servant-leader to reinforce these dual perspectives.
+    - "Markus his core responsibilities as scrum master included:<ul><li>Helping the product owner maintain the product backlog in a way that ensures the needed work is well understood so the team can continually make forward progress;</li><li>Helping the team to determine the definition of done for the product, with input from key stakeholders;</li><li>Coaching the team, within the scrum principles, in order to deliver high-quality features for its product;</li><li>Promoting self-organization within the team;</li><li>Helping the scrum team to avoid or remove impediments to its progress, whether internal or external to the team;</li><li>Facilitating team events to ensure regular progress;</li><li>Educating key stakeholders in the product on scrum principles;</li></ul>"
+    - Together with the team he has set up the infrastructure for a PAAS environment, implemented workflows and he has built connections to different platforms (e.g. CDS. AD, RACF, Unix) for automatic provisioning.
+    - The team was responsible for the DTAP environment. All code / configurations were developed by them, tests have been developed and implemented - partly automated and partly manual. Eventually the final product, was implemented on production and managed. The operational part of the team gave input for development in upcoming sprints.
+    - In addition to his responsibilities to the team, he worked close together with the Product Owner to ensure that the user stories were ready and clear for the upcoming sprints.
+
+  - designation: Product Owner RUAP @ING Netherlands
+    start: May 2014
+    end: Nov 2014
+    responsibilities:
+    - "Scrum is an iterative and incremental agile software development methodology for managing product development. It defines \"a flexible, holistic product development strategy where a development team works as a unit to reach a common goal\", challenges assumptions of the \"traditional, sequential approach\" to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines in the project."
+    - Markus gathered input from stakeholder, data analysis and feedback from the business. And in the meantime he developed/improved a vision for his focus area (Aveksa). The gathered input and vision was transform into a roadmap and a backlog. Together with his team, he was responsible for executing and delivering a reliable User Access Management environment.
+    - Markus was responsible for two scrum teams. His team consisted of developers, Operational staff, business analysts and architects. Together they improved and renewed, in every sprints, the applications for the User Access Management environment. And as Product Owner Markus together with the team and the stakeholders set the direction for the focus.
+
+  - designation: "Mentor \"Trans forward to .....\" Project"
+    start: Apr 2014
+    end: Dec 2014
+    responsibilities:
+    - Trans Forward to ..... was a large project to trigger an internal change in culture and mind-set among staff of Managed Services. The whole project consisted of three phases. <ol><li>Trans forward to Connect</li><li>Trans forward to Shape</li><li>Trans forward to Change</li></ol>
+    - In total an organization of around 5000 people had to change. This was done by letting the Management Team, all managers and 1500 employees engage the change process within the organization.
+    - methods<ul><li>Awareness sessions</li><li>Open Space sessions</li><li>Process improvement projects</li></ul>
+    - As one of the mentors Markus made sure that the Management Team, all managers of Managed Services and a large group of employees were led through these phases. Besides being involved in all sessions, he was closely involved in all activities outside of the sessions. It was his job to coach participants and let them stay aware of the objectives and commitments.
+    - As mentor team together with the coaches we have put up a great result. A Denison scan has revealed that the mind-set and culture change has been turned into in the right direction.
+ 
+  - designation: Identity- Access and Security Specialist in DevOps / Scrum team @ING Netherlands
+    start: Sep 2013
+    end: Sep 2015
+    responsibilities:
+    - After being involved for more than more than five years within the Identity- Access Management solution for ING's Markus was asked to join the scrum team to implement a new Identity- Access Management product. His extensive experience with the processes, current technology and procedures made him an excellent addition to the team.
+    - Markus fulfilled multiple roles within the Scrum team that evolved to a DevOps team.
+    - As technical engineer Markus designed and built workflows, made connections to different platforms (CDS; AD; RACF; Unix) and created rules to automate authorization management. Together with the team he managed an appliance and later converted the appliance to a PAAS environment. The team was responsible for the content of the database (Oracle) and the filesystem (Unix), the middleware (JBoss on the appliance and WebSphere on PAAS) and Life Cycle management of the application.
+    - As operational engineer Markus participated in the sergeant schedule. For a day per 2 weeks Markus was responsible for daily checks, incidents and email. Markus had a key role in change management. He created changes and monitored them to make sure the releases followed the ING procedures. He made sure tests were done and reviewed the results. He advised the Product Owner in approvals.
+ 
+  - designation: Knowledge Motivator
+    start: Nov 2012
+    end: Oct 2013
+    responsibilities:
+    - Within the ING delivery Centre at Atos a training program was launched to improve the employees communication skills and make them more costumer minded. The project included a small group of people to keep the knowledge and tools in practice.
+    - As one of the motivators I was responsible for sharing knowledge to teammembers and make sure that the tools and methodes keep being used within the team.
+    - As a motivator Markus has learned a lot of personal effectiveness. To let the employees practice the learned skills Markus organized sessions. In this sessions they could use their newly learned skills in a familiar environment. Employees got the responsibility to organize these sessions as well got coached and were able to practice.
+
+  - designation: Change- en Releasecoördinator @ING Netherlands
+    start: Dec 2011
+    end: Oct 2013
+    responsibilities:
+    - In the assignment as change Coordinator at the CDC ING Markus controlled the team responsible changes and releases. The team manages was IBM Tivoli Identity Manager (ITIM) for ING. Atos maintained the application; workflows; adapters to different platforms; the Java shell for end users and the reports. These were all subject to changes. Markus maintained direct contact with the functional owner of ITIM, is present in the Change Advisory Board, manages the team and made the release planning. 
+
+  - designation: Team lead technical support team
+    start: Sep 2011
+    end: Mar 2013
+    responsibilities:
+    - As a team leader Markus managed technical team of the Entitlement Services department. The team was responsible for ING's identity and access management application. He oversaw the activities of the team and coached both the team as individuals with the aim to get the best out of both. He also was responsible for HR tasks such as team meetings, face-to-face conversations and he organized GROW sessions.
+    - He was also responsible for setting up the change process and set up the planning thereof. He made sure that the occupation of the department was consistent to the workload.
+    - He supervised the SLA agreements, created reports and wrote the Service Component Description. Markus kept in close contact with ING in various discussions and linked the feedback back to his team.
+    - His role was coaching and consulting, he systematically applied the right structure and he had a strong vision of the production process. Through his dedication he brought not only his department at a higher level but he helped the organization as a whole ahead as well! 
+
+  - designation: Coaching and Guiding Junior Specialists
+    start: Oct 2009
+    end: Oct 2013
+    responsibilities:
+    - As a senior BI specialist Markus has coached, trained and supervised multiple junior specialists in the areas of Oracle, Crystal Reports and Business Objects. The responsibilities of Markus were to increase the quality, employability and knowledge of the employees.
+    - I was part of the Business Object Comptence Team. As a team we were responsible for keeping the Business Objects skills up to date. Update the practice members with the latest developments. And finally keep record of the skills and assignments within the practice.
+    
+  - designation: Business Intelligence Developer @ING Netherlands
+    start: Jun 2008
+    end: Oct 2013
+    responsibilities:
+    - In his last assignment as Business Objects specialist at ING bank Netherlands (Entitlement Services) Markus has managed the Business Objects environment. The assignment was divided into 3 main tasks. Firstly it was Markus' responsibility to manage the Universes and existing reports. Keeping them up to date, make documentation, keep track of versions and releases and answer questions from the costumers concerning the reports. Secondly, it was his duty to cooperate with the end users to create new and better reports. This part of his responsibilities included an information analysis session with the end-user, then design and development of the report. When the report was ready Markus and the end user evaluated and checked the final report before publishing it. Finally Markus was involved in meetings and discussions which pertained to Entitlement Services and issues concerning (possible) reports. His expertise in the field of Business Intelligence, Business Objects and the data environment was used as input for open issues.
+    
+- company:
+    name: Nationaal Incasso Bureau
+    url: "https://nibincasso.nl/"
+    location: Amsterdam/Purmerend
+    overview: 
+  positions:
+  - designation: BI Developer / Crystal Reports Expert
+    start: aug 2003
+    end: Jun 2008
+    responsibilities:
+    - In his function as an IT employee at the \"Nationaal Incasso Bureau BV\" Markus has developed himself into the reporting specialist he currently is. Markus has created many different and varied BI-reports, from special requests for customers to information requests for management and board. He was responsible for the entire project, from information analysis to designing the reports till presenting the final reports. For creating the reports Markus used Crystal Reports and more recently Business Objects as well. Some of the reports made by Markus are related to Data Mining. Examples are reports based on historical data such as a revenue analysis of customers and employees or historical trend analysis overview for costumers.
+    
+  - designation: IT specialist
+    start: May 2001
+    end: Jun 2008
+    responsibilities:
+    - In 2000 I started as IT specialist at NIB. I started parttime and after a few year full time. I supported the IT manager with several tasks. We supported 4 different companies - Collecting National (NIB Incasso) - Collecting International (TCM) - Legal collcting (NIB Juristen) - Communication/Advertising (NRB cc).
+
+  - designation: Teamleader Call center Collections
+    start: Jan 1999
+    end: May 2001
+    responsibilities:
+    - "Markus was working as an employee for the Call Centre at the National Collection Agency and worked from 13:00 to 21:00. The team leader changed departments from Collections to Legal and we were confronted with a team without direct leadership."
+    - Markus was asked to perform this task. His responsibilities were to ensure the quality and productivity of the group. Markus served as a source of information and helped in difficult cases.
+    - Led by Markus, the evening shift achieved good results and they were able to free time to help with the backlog of employees who work during the day.
+    - This was the first introduction to leadership for Markus. He found that the ability to help and guide the staff was very satisfactory.
+    
+  - designation: Employee Callcenter
+    start: Dec 1997
+    end: May 2001
+    responsibilities:
