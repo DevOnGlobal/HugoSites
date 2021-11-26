@@ -7,9 +7,16 @@ Hugo sites For Employees
 - Access to Github
 - Access to Azure Portal
 
-## Install Hguo on Microsoft:
+## Install Hugo on Microsoft:
 *Prequisites:*
 - Powershell
+- scoop
+
+## Steps
+- Run Powershell
+- install scoop 
+`Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')`
+- install hugo 
 
 
 
