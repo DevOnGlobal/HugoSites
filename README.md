@@ -37,12 +37,3 @@ This will run a test version of your site on localhost:1313!
 ## What files do I need to change?
 The first file you can alter is the config.yaml file. Here some information like Title, base url, languages and other settings can be set. Depending on the language settings you will find the information for your site in the data\[languagecode]. 
 
-`# Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
-    weight: 1
-#  nl:
-#    languageName: Dutch
-#    weight: 2`
