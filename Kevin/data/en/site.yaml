@@ -17,9 +17,9 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Markus' resume
+  title: Kevin's resume
   type: website
-  description: Resume of Markus van Duijn.
-  image: images/author/markus.jpg
+  description: Resume of Kevin Boots.
+  image: images/author/kevin.png
   # url: https://mango-mud-068a88603.azurestaticapps.net/hugo-toha.github.io
   url: https://zealous-field-079b60e10.azurestaticapps.net/

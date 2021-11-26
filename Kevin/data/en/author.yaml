@@ -3,7 +3,7 @@ name: "Kevin Boots"
 nickname: "Kevin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi there! I am "
-image: "images/author/kevin.jpg"
+image: "images/author/kevin.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "k.boots@devon.nl"

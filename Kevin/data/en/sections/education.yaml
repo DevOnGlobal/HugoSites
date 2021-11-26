@@ -29,36 +29,38 @@ degrees:
           outOf: 10
     extracurricularActivities: #(optional)
       - Chairman & External Relations boardmember for students association Liber (Amsterdam), 2015-2016
-
-- name: Bsc. Biomedical Sciences
-  icon: fa-university
-  timeframe: 2010-2013
-  institution:
-    name: University of Amsterdam
-    url: "#"
-  grade: #(optional)
-    scale: WO Bachelor - Finished
-    achieved: 3
-    outOf: 3
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    courses:
-    - name: Minor Medication to Prevention, Medical Biotechnology & Nutrition
-      achieved: 
+  - name: Bsc. Biomedical Sciences
+    icon: fa-university
+    timeframe: 2010-2013
+    institution:
+      name: University of Amsterdam
+      url: "#"
+    grade: #(optional)
+      scale: WO Bachelor - Finished
+      achieved: 3
+      outOf: 3
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+      - name: Minor Medication to Prevention, Medical Biotechnology & Nutrition
+        achieved:
+        outOf:
+    extracurricularActivities: #(optional)
+  - name: High school
+    icon: fa-school
+    timeframe: 2004-2010
+    institution:
+      name: Mendelcollege
+      url: "#"
+    grade: #(optional)
+      scale: VWO
+      achieved:
       outOf:
-  extracurricularActivities: #(optional)
-
-- name: High school
-  icon: fa-school
-  timeframe: 2004-2010
-  institution:
-    name: Mendelcollege
-    url: "#"
-  grade: #(optional)
-    scale: VWO
-    achieved:
-    outOf:
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Tweetalig Gymnasium
+          achieved:
+          outOf:
