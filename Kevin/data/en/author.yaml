@@ -1,0 +1,16 @@
+# some information about you
+name: "Kevin Boots"
+nickname: "Kevin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi there! I am "
+image: "images/author/kevin.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "k.boots@devon.nl"
+  phone: "+31655536323"
+
+# some summary about what you do
+summary:
+  - I am a DevOps Consultant & CI/CD enthusiast
+  - I am an Accelerator
+  - I love helping people get the best out of themselves

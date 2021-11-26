@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DevOn
+    url: "https://www.devon.nl"
+    location: Delft / Netherlands
+    # company overview
+    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+  positions:
+  - designation: DevOps Consultant
+    start: Oct 2021
+    responsibilities:
+    - "Offering consulting services for anything DevOps and CICD related to clients in need, all the while helping to build a great learning culture at DevOn."
+    - "Taking on (interim) roles such as DevOps / CICD engineer, DevOps enabler, technical coach, and more. Also giving training on topics like DevOps Fundamentals, DevOps Leadership and more."
+
+- company:
+    name: International Card Services B.V. (ABN AMRO subsidiary)
+    url: "https://www.icscards.nl/"
+    location: Diemen / Netherlands
+    overview: 
+  positions:
+  - designation: DevOps Lead - CI/CD Enablement and Public Cloud Enablement
+    start: Apr 2021
+    end: Oct 2021
+    responsibilities:
+    - "Leading two teams in the CI/CD and Public Cloud domain."
+    - "Public Cloud: Laying the foundation for adoption & implementation of public cloud technologies (Azure) within ICS, coaching the implementation & skills development in this area within application / development teams."
+    - "CI/CD: Offering a platform of sorts (Gitlab & other CI tools) that software delivery teams can use to automate most (if not all) parts of the software delivery journey. Technical coaching within teams to help them adopt industry best practices and mindsets (DevOps, CI/CD, XP). "
+
+  - designation: DevOps Lead & Engineer - CI/CD Enablement
+    start: May 2020
+    end: Apr 2021
+    responsibilities:
+    - "Leading a team of fellow engineers & coaches (and doing some engineering myself when time allows). Prioritize backlogs, help solve impediments and act as a subject matter expert on implementing CI/CD, automation/deployment pipelines and related tooling (Nexus, Gitlab, Jira, Confluence, Slack, etc)."
+
+  - designation: DevOps Engineer - CI/CD Enablement
+    start: Feb 2019
+    end: May 2020
+    responsibilities:
+    - "End-to-end responsible (w/ team) for several tools within the DevOps cycle / IT Value Chain, e.g. plan, develop, test, deploy, monitor. Activities include development & (automated) maintenance on tooling-apps, as well as consultancy & training for end-users. "
+
+- company:
+    name: Procam (now Formorrow)
+    url: "https://www.formorrow.nl/"
+    location: Amersfoort / Diemen
+    overview: 
+  positions:
+  - designation: Trainee Functional Application Manager
+    start: Dec 2016
+    end: Dec 2018
+    responsibilities:
+    - ""

@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Python
+  timeline: 
+  organization:
+    name: Codecademy
+    url: https://www.codecademy.com/
+  courseOverview: 
+  certificateURL: "https://www.codecademy.com/profiles/chipRockstar07024/certificates/6c152bd262967f8c941c9707ed636bda"
+  
+

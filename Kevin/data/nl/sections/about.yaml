@@ -1,0 +1,111 @@
+# section information
+section:
+  name: Over
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Lead Consultant
+# your company information
+company:
+  name: Devon
+  url: "https://www.devon.nl"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resumeMarkus.pdf"
+
+# a summary about you
+summary: 'Markus van Duijn is een DevOps-coach met veel technische vaardigheden. Hij is veelzijdig, analytisch en leergierig. Hij houdt van een uitdaging en helpt anderen het beste in zichzelf naar boven te halen. Hij gelooft dat inspireren wordt bereikt door het juiste voorbeeld te geven.
+In complexe omgevingen controleert en overziet Markus alle operaties. Hij heeft ruime ervaring in het beheren van kritische bedrijfsapplicaties, ITIL-processen en verschillende programmeertalen. Hij heeft de drive om te verbeteren, heeft een proactieve houding die hij doorgeeft aan de rest van de organisatie.
+Markus hecht veel waarde aan heldere communicatie en openheid. Hij is in staat mensen te motiveren, verschillen te overbruggen en draagvlak te creëren. Hij verbindt zich met alle betrokken partijen en begrijpt hun belangen, weegt ze goed af om uiteindelijk tot synergie en consensus te komen.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "m.vanduijn@devon.nl"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/manincNL"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/markus-van-duijn/"
+  
+- name: Springest
+  icon: "fa fa-graduation-cap"
+  url: "https://www.springest.nl/u/m-a-n-van-duijn"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified DevOps Foundation
+  url: "https://devops.credly.com/member-badges/15356160"
+  badge: "https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png"
+
+- type: certification
+  name: Certified DevOps Leader
+  url: "https://devops.credly.com/member-badges/21533137"
+  badge: "https://credlyapp.s3.amazonaws.com/badges/27c222eae3e8df2ebf27ad711ec84025_17.png"
+
+- type: certification
+  name: Continuous Delivery Architect
+  url: "https://devops.credly.com/member-badges/23067946"
+  badge: "https://credlyapp.s3.amazonaws.com/badges/869be979cad1ff51bd9c4213257c6360_17.png"
+
+- type: certification
+  name: Certified DevOps Test Engineer
+  url: "https://devops.credly.com/member-badges/23046002"
+  badge: "https://credlyapp.s3.amazonaws.com/badges/551f7fa3c76fa1a7c897c493e60ac0c8_17.png"
+
+- type: certification
+  name: Certified DevSecOps
+  url: "https://devops.credly.com/member-badges/17467578"
+  badge: "https://credlyapp.s3.amazonaws.com/badges/7e705099db509b1166677ab74c21b09e_17.png"
+  
+- type: certification
+  name: PSM
+  url: "https://www.credly.com/badges/c3c52887-75e8-4f28-9ed8-2c93dd76745f?source=linked_in_profile"
+  badge: "https://images.credly.com/size/340x340/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png"
+  
+- type: soft-skill-indicator
+  name: Stresbestendig
+  percentage: 100
+  color: "#ff5000"
+
+- type: soft-skill-indicator
+  name: Behulpzaam
+  percentage: 100
+  color: "#17a2b8"
+
+- type: soft-skill-indicator
+  name: Consistent
+  percentage: 100
+  color: "#ff5000"
+
+- type: soft-skill-indicator
+  name: Resultaat gericht
+  percentage: 100
+  color: "#17a2b8"
+  
+- type: soft-skill-indicator
+  name: Verantwoordelijk
+  percentage: 100
+  color: "#ff5000"
+
+- type: soft-skill-indicator
+  name: Bruggenbouwer
+  percentage: 100
+  color: "#17a2b8"
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
