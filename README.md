@@ -17,6 +17,12 @@ Hugo sites For Employees
 - install scoop 
 `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')`
 - install hugo 
+`scoop install hugo-extended`
+
+## install Git on Windows
+*Prequisites:*
+- Powershell
+
 
 
 
