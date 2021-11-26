@@ -32,7 +32,7 @@ Create in the root folder a new directory with your name and copy the content of
 
 `hugo server --theme toha --watch` 
 
-This will run a test version of your site on localhost:1313!
+This will run a test version of your site on localhost:1313! Any change you make will be directly pushed to the test environment enabling you to test your code changes on the go.
 
 ## What files do I need to change?
 The first file you can alter is the config.yaml file. Here some information like Title, base url, languages and other settings can be set. Depending on the language settings you will find the information for your site in the data\[languagecode]. 
