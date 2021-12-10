@@ -1,0 +1,100 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: DevOps Consultant
+# your company information
+company:
+  name: Devon
+  url: "https://www.devon.nl"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resumeMarkus.pdf"
+
+# a summary about you
+summary: "Kevin is a energetic, people-centric DevOps enthusiast, focused on (helping) making development teams' lives easier, faster, better while helping businesses improve their time to market.
+
+He is a DevOps & CI/CD consultant with leadership, development and operations engineering experience, and with prior jobs in the financial space no stranger to environments with strict compliancy regulations.
+
+
+"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "k.boots@devon.nl"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/kbdevon"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kevin-boots-kevops-engineer/"
+
+- name: Credly
+  icon: "fa fa-graduation-cap"
+  url: "https://www.credly.com/users/kevin-boots"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified Professional Scrum Product Owner II (PSPO II)
+  url: "https://www.credly.com/org/scrum-org/badge/professional-scrum-product-owner-ii-pspo-ii"
+  badge: "https://images.credly.com/size/220x220/images/abe50c7f-3e84-477d-b4f5-0a8ce2e8f1a4/BADGES_FINAL_PSPO-II_600.png"
+
+- type: certification
+  name: Microsoft Azure Fundamentals
+  url: "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"
+  badge: "https://images.credly.com/size/220x220/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
+
+- type: certification
+  name: Certified Professional Scrum Master I (PSM I)
+  url: "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-i-psm-i"
+  badge: "https://images.credly.com/size/220x220/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png"
+
+- type: certification
+  name: Lean Six Sigma Orange Belt
+  url: "https://leansixsigmagroep.nl/trainingen/lean-six-sigma-orange-belt-training/#certificate"
+  badge: "https://media-exp1.licdn.com/dms/image/C4D0BAQHaXVsqJUrbgw/company-logo_100_100/0/1552561835006?e=1646265600&v=beta&t=ptolIopYA8sCT1jDrZfh_bG7E4ufsVSTEoyH-PHYolY"
+  
+- type: soft-skill-indicator
+  name: Quick adapter
+  percentage: 90
+  color: "#ff5000"
+
+- type: soft-skill-indicator
+  name: Helpful
+  percentage: 100
+  color: "#17a2b8"
+
+- type: soft-skill-indicator
+  name: Coaching
+  percentage: 80
+  color: "#ff5000"
+
+- type: soft-skill-indicator
+  name: Analysis
+  percentage: 85
+  color: "#17a2b8"
+  
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: "#ff5000"
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DevOn
+    url: "https://www.devon.nl"
+    location: Delft / Netherlands
+    # company overview
+    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+  positions:
+  - designation: DevOps Consultant
+    start: Oct 2021
+    responsibilities:
+    - "Offering consulting services for anything DevOps and CICD related to clients in need, all the while helping to build a great learning culture at DevOn."
+    - "Taking on (interim) roles such as DevOps / CICD engineer, DevOps enabler, technical coach, and more. Also giving training on topics like DevOps Fundamentals, DevOps Leadership and more."
+
+- company:
+    name: International Card Services B.V. (ABN AMRO subsidiary)
+    url: "https://www.icscards.nl/"
+    location: Diemen / Netherlands
+    overview: International Card Services is NL's leading supplier of creditcards and credit-related solutions, including it's own brand but also cobranders like ANWB, Bijenkorf and more. At ICS, I went from trainee to fullblown DevOps lead, experiencing multiple large-scale transformation efforts towards Agile and DevOps, then public cloud respectively.
+  positions:
+  - designation: DevOps Lead - CI/CD Enablement and Public Cloud Enablement
+    start: Apr 2021
+    end: Oct 2021
+    responsibilities:
+    - "Leading two teams in the CI/CD and Public Cloud domain."
+    - "Public Cloud: Laying the foundation for adoption & implementation of public cloud technologies (Azure) within ICS, coaching the implementation & skills development in this area within application / development teams."
+    - "CI/CD: Offering a platform of sorts (Gitlab & other CI tools) that software delivery teams can use to automate most (if not all) parts of the software delivery journey. Technical coaching within teams to help them adopt industry best practices and mindsets (DevOps, CI/CD, XP). "
+
+  - designation: DevOps Lead & Engineer - CI/CD Enablement
+    start: May 2020
+    end: Apr 2021
+    responsibilities:
+    - "Leading a team of fellow engineers & coaches (and doing some engineering myself when time allows)."
+    - "Handle HR duties for team, including hiring and performance management where necessary."
+    - "Prioritize backlogs, help solve impediments and act as a subject matter expert on implementing CI/CD, automation/deployment pipelines and related tooling (Nexus, Gitlab, Jira, Confluence, Slack, etc)."
+
+  - designation: DevOps Engineer - CI/CD Enablement
+    start: Feb 2019
+    end: May 2020
+    responsibilities:
+    - "End-to-end responsible (w/ team) for several tools within the DevOps cycle / IT Value Chain, e.g. plan, develop, test, deploy, monitor. "
+    - "Activities include development & (automated) maintenance on tooling-apps, as well as consultancy & training for end-users."
+    - "Tools & technologies used included: Python, Ansible, Gitlab CI, Nexus Repository Manager, Nexus IQ Server, Sonarqube, Docker, Docker Swarm."
+
+  - designation: Functional Application Manager / Operations Engineer
+    start: Dec 2018
+    end: Feb 2019
+    responsibilities:
+      - "Actively support various DevOps, Scrum and Business teams with tooling like Jira and Confluence (as admin). Join & lead various improvement initiatives related to these tools."
+      - "Was part of Telecom and Identity & Access Management Teams during this (and previous) period as well."
+      - "See also below (period as trainee at same department)."
+
+- company:
+    name: Procam (now Formorrow)
+    url: "https://www.formorrow.nl/"
+    location: Amersfoort / Diemen
+    overview: Procam (named Formorrow in Nov 2021) is an IT and Life Sciences traineeship company that contacted me to switch careers from biomedical sciences to IT. I soon found my match with ICS B.V. (see above) where I would stay for the next 5 years.
+  positions:
+  - designation: Trainee Functional Application Manager at International Card Services
+    start: Dec 2016
+    end: Dec 2018
+    responsibilities:
+    - "Support various teams using IT tooling like Jira and Confluence. Standardize and improve way-of-working with these tools."
+    - "Start and guide software improvement initiatives."
+    - "Handle ITSM processes for department, including incident and support management."
+    - "Create, maintain and distribute department documentation and control framework, based on standards like COBIT5, ITIL and BiSL."
