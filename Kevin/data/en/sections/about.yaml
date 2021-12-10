@@ -69,8 +69,8 @@ badges:
   badge: "https://media-exp1.licdn.com/dms/image/C4D0BAQHaXVsqJUrbgw/company-logo_100_100/0/1552561835006?e=1646265600&v=beta&t=ptolIopYA8sCT1jDrZfh_bG7E4ufsVSTEoyH-PHYolY"
   
 - type: soft-skill-indicator
-  name: Stress Resistant
-  percentage: 100
+  name: Quick adapter
+  percentage: 90
   color: "#ff5000"
 
 - type: soft-skill-indicator
@@ -79,24 +79,20 @@ badges:
   color: "#17a2b8"
 
 - type: soft-skill-indicator
-  name: Consistent
-  percentage: 100
+  name: Coaching
+  percentage: 80
   color: "#ff5000"
 
 - type: soft-skill-indicator
-  name: Result Oriented
-  percentage: 100
+  name: Analysis
+  percentage: 85
   color: "#17a2b8"
   
 - type: soft-skill-indicator
-  name: Responsible
-  percentage: 100
+  name: Leadership
+  percentage: 90
   color: "#ff5000"
 
-- type: soft-skill-indicator
-  name: Bridge Builder
-  percentage: 100
-  color: "#17a2b8"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
