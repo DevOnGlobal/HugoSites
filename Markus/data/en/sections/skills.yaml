@@ -13,11 +13,11 @@ section:
 skills:
 - name: DevOps
   logo: /images/sections/skills/devops1.png
-  summary: "7 years of experience in the area of DevOps. Started as DevOps Engineer and grown to a trainer/coach in this field. Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. Certified trainer in many areas of DevOps like Foundation, Continuous Delivery Architecture, Leadership, Testing and Security"
+  summary: "9 years of experience in the area of DevOps. Started as DevOps Engineer and grown to a trainer/coach in this field. Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. Certified trainer in many areas of DevOps like Foundation, Continuous Delivery Architecture, Leadership, Testing and Security"
 
 - name: Agile
   logo: /images/sections/skills/agile.png
-  summary: "More than 10 years of experience in Agile Software Development. I have experienced Agile in different ways, as a Product Owner, Scrum Master and team member, later also as a coach. Able to explain how the 12 principles help making work more fun and easier. I can connect Agile to DevOps. "
+  summary: "More than 12 years of experience in Agile Software Development. I have experienced Agile in different ways, as a Product Owner, Scrum Master and team member, later also as a coach. Able to explain how the 12 principles help making work more fun and easier. I can connect Agile to DevOps. "
 
 - name: Lean
   logo: /images/sections/skills/sigma.jpg
@@ -25,7 +25,7 @@ skills:
 
 - name: Coaching
   logo: /images/sections/skills/coder.png
-  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
+  summary: "The last 7 years coached teams in CICD, Agile and DevOps. I also participated in a great program to transform behavior in a department of 5000 people. I was mentor and helped coaching participants."
 
 - name: Training
   logo: /images/sections/skills/trainer.png
