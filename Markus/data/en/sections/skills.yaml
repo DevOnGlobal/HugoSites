@@ -34,7 +34,7 @@ skills:
 
 - name: Leadership
   logo: /images/sections/skills/leader.png
-  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
+  summary: ""
 
 - name: Angular Development
   logo: /images/sections/skills/angular.png
