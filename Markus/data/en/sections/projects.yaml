@@ -23,6 +23,14 @@ buttons:
 
 # your projects
 projects:
+- name: Course - DEVOPS ESSENTIALS
+  logo: /images/sections/projects/essentials.png
+  role: Creator
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://devonacademy.com/training/certified-devops-essentials/"
+  summary: The internationally recognized certification for the Certified DevOps Essentials will help set the stage for organizational transformations in software development. DevOps is about removing the barriers between traditionally siloed teams, development and operations. Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations. This tool-agnostic certification helps to understand the principles and practices used within DevOps adoption throughout the journey. It will also serve as a base for future Certified DevOps trainings and certifications.
+  tags: ["content","professional","training"]
+
 - name: ModX
   logo: /images/sections/projects/modx.png
   role: Site builder
@@ -47,14 +55,6 @@ projects:
   repo: https://github.com/hossainemruz/toha
   summary: A Hugo theme for personal portfolio.
   tags: ["hobby","hugo","theme","professional"]
-
-- name: Course - DEVOPS ESSENTIALS
-  logo: /images/sections/projects/essentials.png
-  role: Creator
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://devonacademy.com/training/certified-devops-essentials/"
-  summary: The internationally recognized certification for the Certified DevOps Essentials will help set the stage for organizational transformations in software development. DevOps is about removing the barriers between traditionally siloed teams, development and operations. Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations. This tool-agnostic certification helps to understand the principles and practices used within DevOps adoption throughout the journey. It will also serve as a base for future Certified DevOps trainings and certifications.
-  tags: ["content","professional","training"]
 
 - name: Book - HIGH PERFORMING DEVOPS ENTERPRISES
   logo: /images/sections/projects/book.png
